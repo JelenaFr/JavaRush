@@ -1,0 +1,4 @@
+This is the Solution class
+This is the A class
+Process finished with exit code 0
+qwerty

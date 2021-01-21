@@ -1,0 +1,2 @@
+some text for object
+some text for object 2

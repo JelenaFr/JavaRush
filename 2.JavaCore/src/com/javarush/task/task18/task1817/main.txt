@@ -1,0 +1,1 @@
+Antud projektis kõik Java klassid said loogiliselt paigutatud erinevatesse pakettidesse, et lihtsustada programmeerijal navigeerimist klasside vahel. Paigutamise aluseks on võetud MVC disainimuster, kus klassid on jaotatud põhilistesse rühmadesse:
